@@ -1,0 +1,116 @@
+@font-face {
+  font-family: 'toutiao';
+  /* Project id 3699937 */
+  src: url('//at.alicdn.com/t/c/font_3699937_1f9vvcn8jol.woff2?t=1665539415677') format('woff2'), url('//at.alicdn.com/t/c/font_3699937_1f9vvcn8jol.woff?t=1665539415677') format('woff'), url('//at.alicdn.com/t/c/font_3699937_1f9vvcn8jol.ttf?t=1665539415677') format('truetype');
+}
+.toutiao {
+  font-family: 'toutiao' !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.toutiao-pinglun:before {
+  content: '\e601';
+}
+.toutiao-pinglun1:before {
+  content: '\e602';
+}
+.toutiao-zuojiantou:before {
+  content: '\e603';
+}
+.toutiao-gengduo:before {
+  content: '\e604';
+}
+.toutiao-shanchu:before {
+  content: '\e605';
+}
+.toutiao-guanbi:before {
+  content: '\e606';
+}
+.toutiao-fenxiang:before {
+  content: '\e607';
+}
+.toutiao-yanzhengma:before {
+  content: '\e608';
+}
+.toutiao-lishi:before {
+  content: '\e609';
+}
+.toutiao-shouji:before {
+  content: '\e60a';
+}
+.toutiao-sousuo:before {
+  content: '\e60b';
+}
+.toutiao-youjiantou:before {
+  content: '\e60c';
+}
+.toutiao-shouye:before {
+  content: '\e60d';
+}
+.toutiao-dianzan:before {
+  content: '\e60e';
+}
+.toutiao-wode:before {
+  content: '\e60f';
+}
+.toutiao-shoucang:before {
+  content: '\e610';
+}
+.toutiao-dianzan2:before {
+  content: '\e611';
+}
+.toutiao-shipin:before {
+  content: '\e612';
+}
+.toutiao-wenda:before {
+  content: '\e613';
+}
+.toutiao-zuopin:before {
+  content: '\e614';
+}
+.toutiao-yuedu:before {
+  content: '\e615';
+}
+.toutiao-wuwangluo:before {
+  content: '\e616';
+}
+body {
+  background-color: #f5f7f9;
+}
+.page-nav-bar {
+  background-color: #3296fa !important;
+}
+.page-nav-bar .van-nav-bar__title {
+  color: #fff;
+}
+.login-container .page-nav-bar .icon-login {
+  color: #fff !important;
+}
+.van-nav-bar__title {
+  max-width: 100% !important;
+}
+.home-container .channels-tabs .van-tabs__wrap {
+  height: 82px;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 86px;
+  z-index: 1;
+}
+.home-container .channels-tabs .van-tabs__line {
+  width: 31px !important;
+  height: 6px;
+  background-color: #3296fa;
+  bottom: 42px;
+}
+.home-container .channels-tabs .van-tab--active {
+  color: #333 !important;
+}
+.home-container .channels-tabs .van-tab {
+  border-right: 1px solid #edeff3;
+  min-width: 200px;
+  font-size: 30px;
+  color: #777;
+}
